@@ -22,5 +22,7 @@ return {
 
 	-- Fugitive
 	require("user.plugins.fugitive"),
-}
 
+	-- Barbar
+	require("user.plugins.barbar"),
+}
